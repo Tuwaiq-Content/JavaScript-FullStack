@@ -63,7 +63,16 @@ Hi Everyone, Welcome to JavaScript bootcamp. This repository contains informatio
 | Week2| 3  |[CSS-Exam]()
 | Week2| 4  |[Bootstrap-Lesson]()|[Bootstrap-Lab]()|[Bootstrap-HW]()
 | Week2| 5  |[CSS-Project]()|[CSS-Project]()|[CSS-Project]()
-
+| Week3| 1  |[Intro-To-JavaScript-Lesson]()|[Intro-To-JavaScript-Lab]()|[Intro-To-JavaScript-HW]()
+| Week3| 2  |[JavaScript-Array-Lesson]()|[JS-If-Else-Lab]()[-][JS-For-Lab2]()|[JavaScript-For-Array-HW]()
+| Week3| 3  |[JavaScript-Function-Lesson]()|[JavaScript-Objects-Lab]()|[JavaScript-NO-HW]()
+| Week3| 4  |[JavaScript-20Q-Lesson]()|[JavaScript-20Q-Lab]()|[JavaScript-20Q-HW]()
+| Week3| 5  |[JavaScript-Projec]()|[JavaScript-Projec]()|[JavaScript-Project]()
+| Week4| 1  |[JavaScript-DOM-Lesson]()|[Lab1]()-[Lab2]()|[JavaScript-DOM-HW]()
+| Week4| 2   |[DOM-Events-and-Event-Listeners-Lesson]()|[Lab1]()-[Lab2]()-[Lab3]()-[Lab4]()-[Lab5]()|[JavaScript-DOM-HW]()
+| Week4| 3   |[JavaScript-API-Lesson]()|[JS-BOM-Lab]()-[JS-API-Lab1]()-[JS-API-Lab2]()|[JavaScript-API-HW]()
+| Week4| 4   |[JavaScript-API-Lesson]()|[JS-API-Lab]()-[JS-API-Lab2]()|[JavaScript-API-HW]()
+| Week4| 5   |[Project]()|[Project]()|[Project]()
 
 
 
