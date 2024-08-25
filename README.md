@@ -54,7 +54,7 @@ Hi Everyone, Welcome to JavaScript bootcamp. This repository contains informatio
 | Week | Day | Lesson | Lap | HomeWork |
 |:----:|:---:|:------:|:---:|:--------:|
 | Week1| 1  |[Intro-To-World-Wide-Web](https://github.com/Tuwaiq-Academy-Training/Intro-To-World-Wide-Web/blob/main/README.md)|[Intro-To-World-Wide-Web]()|[Intro-To-World-Wide-Web]()
-| Week1| 2  |[HTML-Lesson]()|[Lab1]()-[Lab2]()|[HTML-HW]()
+| Week1| 2  |[HTML-Lesson](https://github.com/Tuwaiq-Academy-Training/HTML-Lesson/blob/main/README.md)|[Lab1]()-[Lab2]()|[HTML-HW]()
 | Week1| 3  |[Git&GitHub-Lesson]()|[Git&GitHub-Lab1]()-[Git&GitHub-Lab2]()|[Git&GitHub-HW]()
 | Week1| 4  |[Git&GitHub-Lesson]()|[Git&GitHub-Lab]()|[Git&GitHub-HW]()
 | Week1| 5  |[Intro-To-CSS-Lesson]()|[CSS-Lab1]()-[CSS-Lab2]()|[Intro-To-CSS-HW]()
