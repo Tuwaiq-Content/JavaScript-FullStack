@@ -55,7 +55,7 @@ Hi Everyone, Welcome to JavaScript bootcamp. This repository contains informatio
 |:----:|:---:|:------:|:---:|:--------:|
 | Week1| 1  |[Intro-To-World-Wide-Web](https://github.com/Tuwaiq-Academy-Training/Intro-To-World-Wide-Web/blob/main/README.md)|[Intro-To-World-Wide-Web]()|[Intro-To-World-Wide-Web]()
 | Week1| 2  |[HTML-Lesson](https://github.com/Tuwaiq-Academy-Training/HTML-Lesson/blob/main/README.md)|[Lab1](https://olivine-wool-1ce.notion.site/Lab1-823903b1fbd742018c9770c341212259)-[Lab2](https://stone-horn-a78.notion.site/Lab2-17d12f2e8eb342f0a7d4ce76fe6f3012)-[Lab3](https://early-wildflower-281.notion.site/D2-W2-LAB3-43a5ec43e949415faad4428f96e2177f)|[HTML-HW]()
-| Week1| 3  |[Git&GitHub-Lesson](https://stone-horn-a78.notion.site/Git-0c7db9b9c2ae4672971ea0bee5502cf0)|[Git&GitHub-Lab1]()-[Git&GitHub-Lab2]()|[Git&GitHub-HW]()
+| Week1| 3  |[Git&GitHub-Lesson](https://stone-horn-a78.notion.site/Git-0c7db9b9c2ae4672971ea0bee5502cf0)|[Git&GitHub-Lab1](https://stone-horn-a78.notion.site/git-html-Lab-0af8f37742184d9fb9bd210d00899f34)-[Git&GitHub-Lab2]()|[Git&GitHub-HW]()
 | Week1| 4  |[Git&GitHub-Lesson]()|[Git&GitHub-Lab]()|[Git&GitHub-HW]()
 | Week1| 5  |[Intro-To-CSS-Lesson]()|[CSS-Lab1]()-[CSS-Lab2]()|[Intro-To-CSS-HW]()
 | Week2| 1  |[Css-Flexbox-Lesson]()|[Css-Flexbox-Lab]()|[Css-Flexbox-Project]()
