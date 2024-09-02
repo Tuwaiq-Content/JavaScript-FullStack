@@ -59,7 +59,7 @@ Hi Everyone, Welcome to JavaScript bootcamp. This repository contains informatio
 | Week1| 4  |[Git&GitHub-Lesson](https://stone-horn-a78.notion.site/Branches-7fd645417b57431bb05a6c93ed24c040)|[Git&GitHub-Lab](https://early-wildflower-281.notion.site/W1-D4-LAB3-f230c284c3cf433b9e44b828fbe8f7fe)|[Git&GitHub-HW](https://stone-horn-a78.notion.site/GitHub-HW-b89811b403bd411b8b8867f61a474b71)
 | Week1| 5  |[Intro-To-CSS-Lesson](https://github.com/Tuwaiq-Academy-Training/CSS-Lesson/blob/main/README.md)|[CSS-Lab1](https://stone-horn-a78.notion.site/CSS-Lab-78639bfd9ef841e39c8293e4c49ca373)-[CSS-Lab2](https://early-wildflower-281.notion.site/CSS-lab2-b938f4d7a1794dfdbf24b31070ef88a2)|[Intro-To-CSS-HW](https://early-wildflower-281.notion.site/PROJECT-1-18d90ca344384b1c9b9d681ec43b2af4)
 | Week2| 1  |[UI AND UX Lesoon]()|[Css-Lab]()
-| Week2| 2  |[Css-Flexbox-Lesson](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)|[Css-Flexbox-Lab]()|[Css-Flexbox-Project]()
+| Week2| 2  |[Css-Flexbox-Lesson](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)|[Css-Flexbox-Lab](https://stone-horn-a78.notion.site/Flex-box-Lab-378b08c6d1cf4095a1239d61b00a085e)|[Css-Flexbox-Project]()
 | Week2| 3   |[Grid-Media-Queries-Lesson]()|[Grid-Media-Queries-Lesson-Lab]()|[Grid-Media-Queries-Lesson-HW]()
 | Week2| 4  |[Bootstrap-Lesson]()|[Bootstrap-Lab]()|[Bootstrap-HW]()
 | Week2| 5  |[CSS-Project]()|[CSS-Project]()|[CSS-Project]()
