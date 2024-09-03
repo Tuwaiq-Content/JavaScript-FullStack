@@ -60,7 +60,7 @@ Hi Everyone, Welcome to JavaScript bootcamp. This repository contains informatio
 | Week1| 5  |[Intro-To-CSS-Lesson](https://github.com/Tuwaiq-Academy-Training/CSS-Lesson/blob/main/README.md)|[CSS-Lab1](https://stone-horn-a78.notion.site/CSS-Lab-78639bfd9ef841e39c8293e4c49ca373)-[CSS-Lab2](https://early-wildflower-281.notion.site/CSS-lab2-b938f4d7a1794dfdbf24b31070ef88a2)|[Intro-To-CSS-HW](https://early-wildflower-281.notion.site/PROJECT-1-18d90ca344384b1c9b9d681ec43b2af4)
 | Week2| 1  |[UI AND UX Lesoon]()|[Css-Lab]()
 | Week2| 2  |[Css-Flexbox-Lesson](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)|[Css-Flexbox-Lab](https://early-wildflower-281.notion.site/Flex-box-Lab-57e7c9c475b04e649f4525727c273405)-|[Css-Flexbox-hw](https://early-wildflower-281.notion.site/Lab2-flexbox-fdd814aff9cd45488edf68c70cc4ebb0)
-| Week2| 3   |[Grid-Media-Queries-Lesson]()|[Grid-Media-Queries-Lesson-Lab]()|[Grid-Media-Queries-Lesson-HW]()
+| Week2| 3   |[Grid-Media-Queries-Lesson](https://css-tricks.com/snippets/css/complete-guide-grid/)|[Grid-Media-Queries-Lesson-Lab]()|[Grid-Media-Queries-Lesson-HW]()
 | Week2| 4  |[Bootstrap-Lesson]()|[Bootstrap-Lab]()|[Bootstrap-HW]()
 | Week2| 5  |[CSS-Project]()|[CSS-Project]()|[CSS-Project]()
 | Week3| 1  |[Intro-To-JavaScript-Lesson]()|[Intro-To-JavaScript-Lab]()|[Intro-To-JavaScript-HW]()
