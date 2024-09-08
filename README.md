@@ -65,7 +65,7 @@ Hi Everyone, Welcome to JavaScript bootcamp. This repository contains informatio
 | Week2| 5  |[Bootstrap-Lesson]()|[Bootstrap-Lab](https://subsequent-azimuth-aa8.notion.site/Bootstrap-Lap-0540b2547e47430db1f619ccea2020a2?pvs=4)|[Weekend Project](https://early-wildflower-281.notion.site/Tuwaiq-Academy-f004feaab779482e9ec5d5dea94786d9)
 | Week3| 1  |[Intro-To-JavaScript-Lesson](https://github.com/Tuwaiq-Academy-Training/Intro-To-JavaScript-Lesson)|[Lab-1](https://olivine-wool-1ce.notion.site/JS-Variables-Lab-380fded5cf594ecb960cf3b15753f6f3)-[Lab-2](https://olivine-wool-1ce.notion.site/JS-if-statement-Lab-6afecb270041484a9f62c878de8bcbad)|[Intro-To-JS-HW]()|[Intro-To-JavaScript-HW]()
 | Week3| 2  |[JavaScript-Array-Lesson]()|[JS-If-Else-Lab]()[-][JS-For-Lab2]()|[JavaScript-For-Array-HW]()
-| Week3| 3  |[JavaScript-Function-Lesson]()|[JavaScript-Objects-Lab]()|[JavaScript-NO-HW]()
+| Week3| 3  |[JavaScript-Function-Lesson]()|[JavaScript-Objects-Lab]()|[JavaScript-HW]()
 | Week3| 4  |[JavaScript-20Q-Lesson]()|[JavaScript-20Q-Lab]()|[JavaScript-20Q-HW]()
 | Week3| 5  |[JavaScript-Projec]()|[JavaScript-Projec]()|[JavaScript-Project]()
 | Week4| 1  |[JavaScript-DOM-Lesson]()|[Lab1]()-[Lab2]()|[JavaScript-DOM-HW]()
