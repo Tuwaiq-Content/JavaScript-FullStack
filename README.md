@@ -71,7 +71,7 @@ Hi Everyone, Welcome to JavaScript bootcamp. This repository contains informatio
 | Week4| 1  |[JavaScript-API-Lesson](https://github.com/Tuwaiq-Academy-Training/JavaScript-API-Lesson/blob/main/README.md)|[JS-Lab](https://stone-horn-a78.notion.site/W5-D2-Lab4-8c21ac9d04164edc8e47becd649b7964)-[JS-BOM-Lab](https://stone-horn-a78.notion.site/W5-D3-Lab1-9b7200b08ae14e59b95b29d7fa3fc285)-[JS-API-Lab1](https://stone-horn-a78.notion.site/W5-D3-Lab1-a8bc841507b245f383a870df2c7d9631)-[JS-API-Lab2](https://stone-horn-a78.notion.site/W5-D3-Lab2-bd29bea3766d42e280a2dbb2338c95ee)|[JavaScript-API-HW](https://early-wildflower-281.notion.site/W4-D1-HW-102185a2dff1806bb1f6fb9ef8fe58a0)
 | Week4| 2   |[JavaScript-API-Lesson]()|[JS-API-Lab](https://stone-horn-a78.notion.site/W5-D4-API-Lab-2d5a9b12991f44c8b42e745c8e15bfed)-[JS-API-Lab2](https://early-wildflower-281.notion.site/W4-D2-API-Lab-103185a2dff180bf9665dbeaf651c509)|[JavaScript-API-HW](https://early-wildflower-281.notion.site/W4-D2-API-HW-103185a2dff1807d8b0ef25824b544bb)
 | Week4| 3   |[JavaScript-project](https://subsequent-azimuth-aa8.notion.site/Mini-Project-cd7d763fdcd6426388a8ace93701ed94?pvs=4)|[JavaScript]()-|[JavaScript-HW]()
-| Week4| 4   |[JavaScript]()|[JavaScript]()-|[JavaScript-HW]()
+| Week4| 4   |[JavaScript-Exam](https://subsequent-azimuth-aa8.notion.site/JavaScript-Exam-10598c03c16c80d9ad7ff0f951f93a44?pvs=4)|[JavaScript]()-|[JavaScript-HW]()
 | Week4| 5   |[Project]()|[Project]()|[Project]()
 | Week5| 1   |[Intro-To-React-Lesson]()|[Intro-To-React-Lab]()|[Intro-To-React-HW]()
 | Week5| 2    |[React-Props-Lesson]()|[React-Lab]()-[React-Lab2]()|[React-HW]() 
