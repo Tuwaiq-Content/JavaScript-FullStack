@@ -76,7 +76,7 @@ Hi Everyone, Welcome to JavaScript bootcamp. This repository contains informatio
 | Week5| 1   |[national day]()|[national day]()|[national day]()
 | Week5| 2    |[national day]()|[national day]()|[national day]() 
 | Week5| 3   |[Intro-To-React-Lesson](https://github.com/Tuwaiq-Academy-Training/React-Fundamentals-Lesson-ts/blob/main/README.md)|[Intro-To-React-Lab]()|[Intro-To-React-HW]()
-| Week5| 4    |[React-Props-Lesson]()|[React-Lab]()-[React-Lab2]()|[React-HW]() 
+| Week5| 4    |[React-Props-Lesson](https://stone-horn-a78.notion.site/Props-js-Lesson-6c690978fffa4523af972bb483a19c1e)|[React-Lab]()-[React-Lab2]()|[React-HW]() 
 | Week5| 5   |[React-Tailwind-Lesson]()|[React-Tailwind-Lab]()|[React-Tailwind-HW]()
 | Week6| 1   |[React-Routing-Lesson]()|[React-Routing-Lab]()|[React-Routing-HW]()
 | Week6| 2   |[React-Hooks-Lesson]()|[React-Hooks-Lab1]()-[Lab2]()|[React-Hooks-HW]()
