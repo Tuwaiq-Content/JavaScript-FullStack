@@ -78,7 +78,7 @@ Hi Everyone, Welcome to JavaScript bootcamp. This repository contains informatio
 | Week5| 3   |[Intro-To-React-Lesson](https://github.com/Tuwaiq-Academy-Training/React-Fundamentals-Lesson-ts/blob/main/README.md)|[Intro-To-React-Lab]()|[Intro-To-React-HW]()
 | Week5| 4    |[React-Props-Lesson](https://stone-horn-a78.notion.site/Props-js-Lesson-6c690978fffa4523af972bb483a19c1e)|[React-Lab](https://stone-horn-a78.notion.site/React-Props-Lab-6fa6be456b57439fa4d4cec704384341)-[React-Lab2](https://stone-horn-a78.notion.site/React-Props-Lab2-3631db8a3eb945bcb740159c73584f2c)|[React-HW](https://stone-horn-a78.notion.site/React-Props-HW-bd6401fbd5bc46c4afcf1ecdb469f60a) 
 | Week5| 5   |[React-Tailwind-Lesson]()|[React-Tailwind-Lab](https://subsequent-azimuth-aa8.notion.site/W5-D5-Taliwind-Lab-10d98c03c16c8044b76edc24451821ff?pvs=4)-[React-Tailwind-Lab2](https://early-wildflower-281.notion.site/W5-D4-Tailwind-lab2-10d185a2dff1803e87ccc0d1476d872f)|[React-Tailwind-project](https://early-wildflower-281.notion.site/W5-D5-PROJECT-10d185a2dff18036959cfa851f5bef1a)
-| Week6| 1   |[React-Routing-Lesson](https://github.com/Tuwaiq-Academy-Training/React-Routing-Lesson)|[React-Routing-Lab]()|[React-Routing-HW]()
+| Week6| 1   |[React-Routing-Lesson](https://github.com/Tuwaiq-Academy-Training/React-Routing-Lesson)|[React-Routing-Lab](https://stone-horn-a78.notion.site/W7-D3-Lab-bdab210932c74bafb6f2117cf01fc369)|[React-Routing-HW]()
 | Week6| 2   |[React-Hooks-Lesson]()|[React-Hooks-Lab1]()-[Lab2]()|[React-Hooks-HW]()
 | Week6| 3   |[React-Api-Lesson]()|[Lab1]()-[Lab2]()|[React-Api-HW]()
 | Week6| 4   |[React-Api-Lesson2]()|[React-Api2-Lab]()|[React-Api2-HW]()
