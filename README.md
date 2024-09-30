@@ -80,10 +80,10 @@ Hi Everyone, Welcome to JavaScript bootcamp. This repository contains informatio
 | Week5| 5   |[React-Tailwind-Lesson]()|[React-Tailwind-Lab](https://subsequent-azimuth-aa8.notion.site/W5-D5-Taliwind-Lab-10d98c03c16c8044b76edc24451821ff?pvs=4)-[React-Tailwind-Lab2](https://early-wildflower-281.notion.site/W5-D4-Tailwind-lab2-10d185a2dff1803e87ccc0d1476d872f)|[React-Tailwind-project](https://early-wildflower-281.notion.site/W5-D5-PROJECT-10d185a2dff18036959cfa851f5bef1a)
 | Week6| 1   |[React-Routing-Lesson](https://github.com/Tuwaiq-Academy-Training/React-Routing-Lesson)|[React-Routing-Lab](https://stone-horn-a78.notion.site/W7-D3-Lab-bdab210932c74bafb6f2117cf01fc369)|[React-Routing-HW](https://stone-horn-a78.notion.site/W7-D3-HW-e72f963b9d3748abbb9ec1270686f3f5)
 | Week6| 2   |[React-Hooks-Lesson](https://github.com/Tuwaiq-Academy-Training/React-hooks)|[React-Hooks-Lab1](https://olivine-wool-1ce.notion.site/W7-D4-Lab1-3a949f7c537f4c73970edb9273432576)-[Lab2](https://stone-horn-a78.notion.site/W7-D4-Lab2-c73b57f21b47454897b38b4c9c473aa3)|[React-useState-Project](https://stone-horn-a78.notion.site/1Week-Project-b8f045150a3d449d8741e17a1706b5ee)
-| Week6| 3   |[React-Api-Lesson]()|[Lab1]()-[Lab2]()|[React-Api-HW]()
-| Week6| 4   |[React-Api-Lesson2]()|[React-Api2-Lab]()|[React-Api2-HW]()
-| Week6| 5   |[React-Mini-Project]()|[React-Mini-Project]()|[React-Mini-Project]()
-| Week7| 1  |
+| Week6| 3 |[React-useState-Project]()|[React-useState-Project]()|[React-useState-Project]()
+| Week6| 4 | [React-Api-Lesson]()|[Lab1]()-[Lab2]()|[React-Api-HW]()
+| Week6| 5 | [React-Api-Lesson2]()|[React-Api2-Lab]()|[React-Api2-HW]()
+| Week7| 1 | [React-Mini-Project]()|[React-Mini-Project]()|[React-Mini-Project]()
 | Week7| 2  |
 | Week7| 3  |
 | Week7| 4  |
