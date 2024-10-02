@@ -81,7 +81,7 @@ Hi Everyone, Welcome to JavaScript bootcamp. This repository contains informatio
 | Week6| 1   |[React-Routing-Lesson](https://github.com/Tuwaiq-Academy-Training/React-Routing-Lesson)|[React-Routing-Lab](https://stone-horn-a78.notion.site/W7-D3-Lab-bdab210932c74bafb6f2117cf01fc369)|[React-Routing-HW](https://stone-horn-a78.notion.site/W7-D3-HW-e72f963b9d3748abbb9ec1270686f3f5)
 | Week6| 2   |[React-Hooks-Lesson](https://github.com/Tuwaiq-Academy-Training/React-hooks)|[React-Hooks-Lab1](https://olivine-wool-1ce.notion.site/W7-D4-Lab1-3a949f7c537f4c73970edb9273432576)-[Lab2](https://stone-horn-a78.notion.site/W7-D4-Lab2-c73b57f21b47454897b38b4c9c473aa3)|[React-useState-Project](https://early-wildflower-281.notion.site/useState-Project-111185a2dff1803f8da5ea6f4969e8a7)
 | Week6| 3 |[React-useState-Project]()|[React-useState-Project]()|[React-useState-Project]()
-| Week6| 4 | [React-Api-Lesson](https://olivine-wool-1ce.notion.site/React-hooks-with-UseEffect-0d5639b6b1944d4382d88cb4c8835eb0)|[Lab1](https://early-wildflower-281.notion.site/useEffect-lab-113185a2dff18090bfacf5168acce2d7)-[Lab2]()|[React-Api-HW]()
+| Week6| 4 | [React-Api-Lesson](https://olivine-wool-1ce.notion.site/React-hooks-with-UseEffect-0d5639b6b1944d4382d88cb4c8835eb0)|[Lab1](https://early-wildflower-281.notion.site/useEffect-lab-113185a2dff18090bfacf5168acce2d7)-[Lab2](https://stone-horn-a78.notion.site/W8-D2-Lab2-edb3189f5c1d4050a06f1edb6688db1b)|[React-Api-HW]()
 | Week6| 5 | [React-Api-Lesson2]()|[React-Api2-Lab]()|[React-Api2-HW]()
 | Week7| 1 | [React-Mini-Project]()|[React-Mini-Project]()|[React-Mini-Project]()
 | Week7| 2  |
