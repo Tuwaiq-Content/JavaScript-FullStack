@@ -82,9 +82,9 @@ Hi Everyone, Welcome to JavaScript bootcamp. This repository contains informatio
 | Week6| 2   |[React-Hooks-Lesson](https://github.com/Tuwaiq-Academy-Training/React-hooks)|[React-Hooks-Lab1](https://olivine-wool-1ce.notion.site/W7-D4-Lab1-3a949f7c537f4c73970edb9273432576)-[Lab2](https://stone-horn-a78.notion.site/W7-D4-Lab2-c73b57f21b47454897b38b4c9c473aa3)|[React-useState-Project](https://early-wildflower-281.notion.site/useState-Project-111185a2dff1803f8da5ea6f4969e8a7)
 | Week6| 3 |[React-useState-Project]()|[React-useState-Project]()|[React-useState-Project]()
 | Week6| 4 | [React-Api-Lesson](https://olivine-wool-1ce.notion.site/React-hooks-with-UseEffect-0d5639b6b1944d4382d88cb4c8835eb0)|[Lab1](https://early-wildflower-281.notion.site/useEffect-lab-113185a2dff18090bfacf5168acce2d7)-[Lab2](https://early-wildflower-281.notion.site/W6-D4-Lab2-113185a2dff180afbbf3e994822c971e)|[React-Mini-Project](https://early-wildflower-281.notion.site/React-YouTube-113185a2dff180a0b106e656fb59a4c0)
-| Week6| 5 | [React-Api-Lesson2]()|[React-Api2-Lab]()|[React-Api2-HW]()
-| Week7| 1 | [React-Mini2-Project]()|[React-Mini2-Project]()|[React-Mini2-Project]()
-| Week7| 2  |
+| Week6| 5 | [Vacation]()|[Vacation]()|[Vacation]()
+| Week7| 1 | [React-Api-Lesson2]()|[React-Api2-Lab]()|[React-Api2-HW]()
+| Week7| 2  | [React-Mini2-Project]()|[React-Mini2-Project]()|[React-Mini2-Project]()
 | Week7| 3  |
 | Week7| 4  |
 | Week7| 5  |
