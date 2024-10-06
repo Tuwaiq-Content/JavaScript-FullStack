@@ -83,7 +83,7 @@ Hi Everyone, Welcome to JavaScript bootcamp. This repository contains informatio
 | Week6| 3 |[React-useState-Project]()|[React-useState-Project]()|[React-useState-Project]()
 | Week6| 4 | [React-Api-Lesson](https://olivine-wool-1ce.notion.site/React-hooks-with-UseEffect-0d5639b6b1944d4382d88cb4c8835eb0)|[Lab1](https://early-wildflower-281.notion.site/useEffect-lab-113185a2dff18090bfacf5168acce2d7)-[Lab2](https://early-wildflower-281.notion.site/W6-D4-Lab2-113185a2dff180afbbf3e994822c971e)|[React-Mini-Project](https://early-wildflower-281.notion.site/React-YouTube-113185a2dff180a0b106e656fb59a4c0)
 | Week6| 5 | [Vacation]()|[Vacation]()|[Vacation]()
-| Week7| 1 | [React-Api-Lesson2]()|[React-Api2-Lab]()|[React-Api2-HW]()
+| Week7| 1 | [React-Api-Lesson2]()|[React-Api2-Lab](https://early-wildflower-281.notion.site/W7-D1-Lab-117185a2dff1802bae04e07f90138b1b)|[React-Api2-HW]()
 | Week7| 2  | [React-Mini2-Project]()|[React-Mini2-Project]()|[React-Mini2-Project]()
 | Week7| 3  |
 | Week7| 4  |
