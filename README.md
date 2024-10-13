@@ -88,7 +88,7 @@ Hi Everyone, Welcome to JavaScript bootcamp. This repository contains informatio
 | Week7| 3  |[Express-Router-BackEnd](https://early-wildflower-281.notion.site/Express-Router-BackEnd-119185a2dff18038856bea7aeffd3d10)|[Express-Router-BackEnd]()|[Express-Router-BackEnd]()
 | Week7| 4  |[MongoDB](https://early-wildflower-281.notion.site/MongoDB-11a185a2dff1802fa887e87edf1c4c93)|[MongoDB-lab](https://early-wildflower-281.notion.site/MongoDB-lab-11a185a2dff180e69e9ff2133ad234c1)|[MongoDB]()
 | Week7| 5  |[React-Exam](https://stone-horn-a78.notion.site/Library-Project-React-Exam-118d716e316880d384dae5e77355d1ca)|[React-Exam]()|[React-project](https://early-wildflower-281.notion.site/React-Project3-11b185a2dff180378cf0d036f75bc86f)
-| Week8| 1 |
+| Week8| 1 |[Relation in DB](https://early-wildflower-281.notion.site/Relation-in-DB-11e185a2dff180fe93beebe562e0b92e)|[Relation in DB]()|[Relation in DB]()
 | Week8| 2 |
 | Week8| 3 |
 | Week8| 4 |
